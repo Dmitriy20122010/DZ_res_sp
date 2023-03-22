@@ -1,0 +1,15 @@
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\bin\Debug\net6.0\dz_res_pr.exe
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\bin\Debug\net6.0\dz_res_pr.deps.json
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\bin\Debug\net6.0\dz_res_pr.runtimeconfig.json
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\bin\Debug\net6.0\dz_res_pr.dll
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\bin\Debug\net6.0\dz_res_pr.pdb
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\obj\Debug\net6.0\dz_res_pr.csproj.AssemblyReference.cache
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\obj\Debug\net6.0\dz_res_pr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\obj\Debug\net6.0\dz_res_pr.AssemblyInfoInputs.cache
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\obj\Debug\net6.0\dz_res_pr.AssemblyInfo.cs
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\obj\Debug\net6.0\dz_res_pr.csproj.CoreCompileInputs.cache
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\obj\Debug\net6.0\dz_res_pr.dll
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\obj\Debug\net6.0\refint\dz_res_pr.dll
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\obj\Debug\net6.0\dz_res_pr.pdb
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\obj\Debug\net6.0\dz_res_pr.genruntimeconfig.cache
+C:\Users\dimis\OneDrive\Рабочий стол\dz_res_pr\obj\Debug\net6.0\ref\dz_res_pr.dll
